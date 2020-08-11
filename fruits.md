@@ -7,3 +7,7 @@
 - Mango
 - Pineapple
 - Kiwi
+- Kumquat
+- Grapes
+- Snake fruit
+- Longan
